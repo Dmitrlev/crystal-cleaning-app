@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/crystal-cleaning-app/static/css/main.d9bc33c8.css",
-    "main.js": "/crystal-cleaning-app/static/js/main.6aebe8ee.js",
+    "main.js": "/crystal-cleaning-app/static/js/main.5a530c75.js",
     "static/media/TTNorms-Medium.otf": "/crystal-cleaning-app/static/media/TTNorms-Medium.b2ec10270eb8117b0b05.otf",
     "static/media/Giovanna.ttf": "/crystal-cleaning-app/static/media/Giovanna.80583716ec06271e09f3.ttf",
     "static/media/logo_icon.svg": "/crystal-cleaning-app/static/media/logo_icon.29c3b011f729c0ad7cfbe2b57fe0e7ff.svg",
     "index.html": "/crystal-cleaning-app/index.html",
     "main.d9bc33c8.css.map": "/crystal-cleaning-app/static/css/main.d9bc33c8.css.map",
-    "main.6aebe8ee.js.map": "/crystal-cleaning-app/static/js/main.6aebe8ee.js.map"
+    "main.5a530c75.js.map": "/crystal-cleaning-app/static/js/main.5a530c75.js.map"
   },
   "entrypoints": [
     "static/css/main.d9bc33c8.css",
-    "static/js/main.6aebe8ee.js"
+    "static/js/main.5a530c75.js"
   ]
 }
